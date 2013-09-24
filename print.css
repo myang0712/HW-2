@@ -1,0 +1,45 @@
+
+h2.titletop {
+	font-size: 15pt;
+	font-weight: Bold;
+	text-decoration: underline;
+	font-variant: small-caps;
+	padding-bottom: 0px;
+	margin-bottom: 15px;
+}
+
+h2.title {
+	font-size: 14pt;
+	font-weight: normal;
+	font-variant: small-caps;
+	padding-bottom: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+h4.title{
+	font-size: 12pt;
+	font-weight: normal;
+	font-variant: small-caps;
+	padding-bottom: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+
+
+h3.title{
+	font-size: 12pt;
+	font-weight: normal;
+	text-align:end;
+	text-align:center;
+	font-variant: small-caps;
+	padding-bottom: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#resume {background:#fff; width:900px; margin:auto; padding:20px; text-align:left; }
+#wrap {display: none;}
+#header {display: none;}
+#printheader  {display: none;}
+#nav  {display: none;}
